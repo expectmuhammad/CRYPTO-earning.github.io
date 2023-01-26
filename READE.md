@@ -1,4 +1,4 @@
-# CRYPTO-earning.github.io
+_config.yml
 <p align="center">
   <img src="https://github.com/trewisscotch/DeFi-phishing-/blob/main/meg/1.png" alt="animated" />
 </p>
